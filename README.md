@@ -33,9 +33,9 @@ I enjoy building efficient solutions, learning new technologies, and growing as 
 <h2>📊 GitHub Stats</h2>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=florezcodespace&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florezcodespace&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
