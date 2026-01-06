@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail" alt="Contact Me">
+  <a href="mailto:afflorez06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/linkedin.com/in/andres-felipe-florez-moreno-b5b7023a3" target="_blank">
+  <a href="https://www.linkedin.com/in/andres-felipe-florez-moreno-b5b7023a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -58,12 +58,13 @@ Currently, I am strengthening my logic through **Object-Oriented Programming (OO
 
 ---
 
-## 📞 Contact Me <a name="contact"></a>
+## 📞 Contact Me
 
 Let's connect and build something amazing together!
 
 | Platform | Link |
 | :--- | :--- |
+| 💼 **LinkedIn** | [Andres Felipe Florez Moreno](https://www.linkedin.com/in/andres-felipe-florez-moreno-b5b7023a3) |
 | 📧 **Email** | [afflorez06@gmail.com](mailto:afflorez06@gmail.com) |
 | 📱 **Phone** | +57 324 609 9733 |
 | 📸 **Instagram** | [@floorez___](https://www.instagram.com/floorez___) |
