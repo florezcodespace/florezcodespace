@@ -10,7 +10,7 @@
   <a href="#contact">
     <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail" alt="Contact Me">
   </a>
-  <a href="linkedin.com/in/andres-felipe-florez-moreno-b5b7023a3">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/andres-felipe-florez-moreno-b5b7023a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
